@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632271137 source:c:\users\victo\codeblocks projects\prova av1 - questão 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+

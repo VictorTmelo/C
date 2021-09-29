@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630656999 source:c:\users\victo\codeblocks projects\messagebox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

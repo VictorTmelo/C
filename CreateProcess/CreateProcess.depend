@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630657224 source:c:\users\victo\codeblocks projects\createprocess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<processthreadsapi.h>
+	<windows.h>
+

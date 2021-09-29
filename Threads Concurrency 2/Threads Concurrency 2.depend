@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632004351 source:c:\users\victo\codeblocks projects\threads concurrency 2\main.c
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+
