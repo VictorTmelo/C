@@ -1,0 +1,12 @@
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.exe
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.deps.json
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.runtimeconfig.json
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.runtimeconfig.dev.json
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.dll
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\bin\Release\netcoreapp3.1\Etapa2.pdb
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.AssemblyInfoInputs.cache
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.AssemblyInfo.cs
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.dll
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.pdb
+D:\workspace\CSharp\Parallel\Etapa2\Etapa2\obj\Release\netcoreapp3.1\Etapa2.genruntimeconfig.cache

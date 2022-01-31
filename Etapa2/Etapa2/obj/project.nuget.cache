@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lued4lHvSi7IyU+RsT5NnmR6v+vNj2dmacqzZvs9bt70WnyUTY1/QWpe8q+NO9plBhEWgiH+tn3NSySUowzgGg==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\CSharp\\Parallel\\Etapa2\\Etapa2\\Etapa2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cenez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

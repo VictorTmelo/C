@@ -1,0 +1,26 @@
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.exe
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.deps.json
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.runtimeconfig.json
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.runtimeconfig.dev.json
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.dll
+C:\Users\victo\source\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.pdb
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.AssemblyInfo.cs
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.dll
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.pdb
+C:\Users\victo\source\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.genruntimeconfig.cache
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.exe
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.deps.json
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.runtimeconfig.json
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.runtimeconfig.dev.json
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.dll
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\bin\Debug\netcoreapp3.1\SecaoCritica.pdb
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.csprojAssemblyReference.cache
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.AssemblyInfoInputs.cache
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.AssemblyInfo.cs
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.csproj.CoreCompileInputs.cache
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.dll
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.pdb
+C:\Users\victo\Visual Studio 2019 Projects\repos\SecaoCritica\obj\Debug\netcoreapp3.1\SecaoCritica.genruntimeconfig.cache

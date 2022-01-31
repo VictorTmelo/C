@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dl8mBbdEUinfw7P07JVQLERS1y0lxBUKGmG8FEz/dZ112Yuc0dKE0qOgHUMgToJMDeLs+YXyZpgH65EM1KMIGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\MapReduce - SpinLock\\MapReduce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.exe
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.deps.json
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.runtimeconfig.json
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.runtimeconfig.dev.json
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.dll
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI-Teste.pdb
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.AssemblyInfo.cs
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.dll
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.pdb
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.genruntimeconfig.cache
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\victo\source\repos\MPI-Teste\bin\Debug\netcoreapp3.1\MPI.xml
+C:\Users\victo\source\repos\MPI-Teste\obj\Debug\netcoreapp3.1\MPI-Teste.csproj.CopyComplete

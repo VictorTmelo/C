@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634525659 source:c:\users\victo\codeblocks projects\jantar dos filosofos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+

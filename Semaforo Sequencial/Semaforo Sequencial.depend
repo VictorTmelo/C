@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633051054 source:c:\users\victo\codeblocks projects\semaforo sequencial\main.c
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<semaphore.h>
+
